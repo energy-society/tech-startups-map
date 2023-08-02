@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tech-startups-map/static/css/main.91183442.css",
+    "main.js": "/tech-startups-map/static/js/main.945abb68.js",
+    "static/media/insight-white.png": "/tech-startups-map/static/media/insight-white.fb6662a9d6b31767eed4.png",
+    "static/media/honeywell-white.png": "/tech-startups-map/static/media/honeywell-white.057260c42d83bafacd5e.png",
+    "index.html": "/tech-startups-map/index.html",
+    "main.91183442.css.map": "/tech-startups-map/static/css/main.91183442.css.map",
+    "main.945abb68.js.map": "/tech-startups-map/static/js/main.945abb68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91183442.css",
+    "static/js/main.945abb68.js"
+  ]
+}

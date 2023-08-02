@@ -215,7 +215,7 @@ function populateMapData(map, mapId, mapData) {
 
     map.flyTo({
       center: MAPS[mapId].flyTo,
-      zoom: MAPS[mapId].flyToZoom || 2,
+      zoom: MAPS[mapId].flyToZoom || 1,
       speed: 0.5,
     });
   });
@@ -330,7 +330,7 @@ export default function App() {
     displayPopup(thisMap, selectedCompany);
     thisMap.flyTo({
       center: selectedCompany.geometry.coordinates,
-      zoom: 2,
+      zoom: 1,
     });
   }
 

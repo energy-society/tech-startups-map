@@ -21,7 +21,7 @@ const POINT_LAYER = 'energy-companies-point-layer';
 // testing if desktop change is key to pages rebuilding
 // = process.env.REACT_APP_MAPBOX_API_TOKEN;
 // mapboxgl.accessToken
-mapboxgl.accessToken='pk.eyJ1IjoidG90b3JvLWRha2UiLCJhIjoiY2tiNzJuZmQ3MDFudDJxa2N1ZG91YzBzciJ9.5qJpYzti2W7avnuM9rCiKA'
+mapboxgl.accessToken=''
 
 function getPopupContent(props) {
   const categoryInfo = ['tax1', 'tax2', 'tax3']

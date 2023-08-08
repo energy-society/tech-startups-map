@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Leader",
+    "color": "#FFC0CB",
+    "aliases": ["Leader"]
+  },
+  {
+    "name": "default",
+    "color": "#FFFFFF",  
+    "aliases": ["default", "standard", "common"] 
+  }
+]

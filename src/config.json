@@ -1,0 +1,21 @@
+{
+  "defaultMapId": "tech-startups",
+  "taxonomies": {
+    "default": "taxonomy.json"
+  },
+  "maps": {
+    "tech-startups": {
+      "title": "Energy Tech Startups",
+      "shortName": "TechStartups",
+      "center": [
+        15,
+        35
+      ],
+      "flyTo": [
+        15,35
+      ],
+      "taxonomy": "default",
+      "displayStanfordLogo": false
+    }
+  }
+}

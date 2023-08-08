@@ -385,8 +385,6 @@ export default function App() {
     setThisMap(map);
   }
 
-  
-
   useEffect(() => {
     if (!thisMap) {
       initMap();
